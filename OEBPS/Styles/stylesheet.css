@@ -1,0 +1,76 @@
+body {
+  font-family: "Noto Serif TC Medium", sans-serif;
+  line-height: 1.2;
+  word-spacing: 0;
+  letter-spacing: 0;
+  text-align: left;
+  writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  -epub-writing-mode: horizontal-tb;
+  -webkit-margin-start: 1.5em;
+  -webkit-margin-end: 0.8em;
+  -webkit-margin-before: 0.2em;
+  -webkit-margin-after: 0.2em;
+  line-break: auto;
+  -webkit-line-break: auto;
+}
+.origin {
+  display: block;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-indent: 2em;
+  margin: 1em 0;
+}
+.comment {
+  -webkit-margin-start: 2em;
+  color: navy;
+  display: block;
+  font-size: 1em;
+  font-weight: normal;
+  text-indent: 2em;
+  margin: 1em 0;
+}
+.title1 {
+  font-size: xx-large;
+  font-weight: bold;
+  letter-spacing: 0.25em;
+}
+.title2 {
+  -webkit-margin-before: 2em;
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0.83em 0;
+}
+.note {
+  -webkit-margin-end: 0.5em;
+  -webkit-margin-start: 0.5em;
+  color: DarkGreen;
+  font-size: 0.75em;
+  font-weight: normal;
+}
+.note1 {
+  font-weight: normal;
+  text-decoration: currentColor wavy underline;
+}
+.note2 {
+  -webkit-margin-start: 2.5em;
+  color: maroon;
+  display: block;
+  font-size: 0.75em;
+  font-weight: normal;
+  margin: 1em 0;
+}
+.note3 {
+  color: navy;
+  font-size: 0.52941em;
+  text-indent: 4em;
+  text-decoration: overline #333;
+}
+.biaohao {
+  color: #000;
+  font-weight: normal;
+  font-size: xx-small;
+}

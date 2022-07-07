@@ -1,0 +1,115 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>四书章句集注</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="朱熹">朱熹</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">83d6c9de-862d-4305-b3db-beff5e3c8c83</dc:identifier>
+    <dc:date>2012-01-31T16:00:00+00:00</dc:date>
+    <dc:publisher>中华书局</dc:publisher>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;《四書章句集注》，本书为朱熹最有代表性的著作之一。该书文字洗练, 对《四书》训诂文字, 疏通文理, 注重义理阐发, 从整体上探求与把握儒学精义, 堪称解读《四书》的经典之作。此次整理以清嘉庆十六年吴县吴氏父子校刻本为底本, 用清康熙内府仿刻的宋淳祐二年大字本校勘。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>朱熹</dc:subject>
+    <dc:subject>儒家</dc:subject>
+    <dc:subject>中国哲学</dc:subject>
+    <dc:subject>国学</dc:subject>
+    <dc:subject>宋明理学</dc:subject>
+    <dc:subject>经典</dc:subject>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>哲学</dc:subject>
+    <dc:subject>中华书局</dc:subject>
+    <dc:subject>诸子</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>zh-TW</dc:language>
+    <dc:identifier opf:scheme="calibre">8affed0b-1598-4231-98bd-5127b472941a</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9787101081695</dc:identifier>
+    <dc:identifier opf:scheme="NEW_DOUBAN">10582727</dc:identifier>
+    <meta content="四书章句集注" name="calibre:title_sort"/>
+    <meta content="鄒寰宇製作" name="calibre:timestamp"/>
+    <meta content="0.7.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:author_link_map" content="{&quot;朱熹&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series" content="新編諸子集成"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part01.htm" id="Part001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part02.htm" id="Part002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part03.htm" id="Part003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part04.htm" id="Part004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part05.htm" id="Part005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part06.htm" id="Part006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part07.htm" id="Part007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part08.htm" id="Part008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part09.htm" id="Part009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part10.htm" id="Part010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part11.htm" id="Part011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part12.htm" id="Part012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part13.htm" id="Part013.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part14.htm" id="Part014.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part15.htm" id="Part015.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part16.htm" id="Part016.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part17.htm" id="Part017.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part18.htm" id="Part018.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part19.htm" id="Part019.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part20.htm" id="Part020.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part21.htm" id="Part021.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part22.htm" id="Part022.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part23.htm" id="Part023.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part24.htm" id="Part024.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part25.htm" id="Part025.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part26.htm" id="Part026.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part27.htm" id="Part027.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part28.htm" id="Part028.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part29.htm" id="Part029.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part30.htm" id="Part030.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part31.htm" id="Part031.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part32.htm" id="Part032.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part33.htm" id="Part033.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id" href="Styles/page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item id="id1" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Part001.htm"/>
+    <itemref idref="Part002.htm"/>
+    <itemref idref="Part003.htm"/>
+    <itemref idref="Part004.htm"/>
+    <itemref idref="Part005.htm"/>
+    <itemref idref="Part006.htm"/>
+    <itemref idref="Part007.htm"/>
+    <itemref idref="Part008.htm"/>
+    <itemref idref="Part009.htm"/>
+    <itemref idref="Part010.htm"/>
+    <itemref idref="Part011.htm"/>
+    <itemref idref="Part012.htm"/>
+    <itemref idref="Part013.htm"/>
+    <itemref idref="Part014.htm"/>
+    <itemref idref="Part015.htm"/>
+    <itemref idref="Part016.htm"/>
+    <itemref idref="Part017.htm"/>
+    <itemref idref="Part018.htm"/>
+    <itemref idref="Part019.htm"/>
+    <itemref idref="Part020.htm"/>
+    <itemref idref="Part021.htm"/>
+    <itemref idref="Part022.htm"/>
+    <itemref idref="Part023.htm"/>
+    <itemref idref="Part024.htm"/>
+    <itemref idref="Part025.htm"/>
+    <itemref idref="Part026.htm"/>
+    <itemref idref="Part027.htm"/>
+    <itemref idref="Part028.htm"/>
+    <itemref idref="Part029.htm"/>
+    <itemref idref="Part030.htm"/>
+    <itemref idref="Part031.htm"/>
+    <itemref idref="Part032.htm"/>
+    <itemref idref="Part033.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
