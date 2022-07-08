@@ -16,9 +16,9 @@ body {
 }
 .origin {
   display: block;
-  font-size: 1em;
+  font-size: 110%;
   font-weight: normal;
-  line-height: 1.2;
+  line-height: 1.1;
   text-indent: 2em;
   margin: 1em 0;
 }
@@ -26,7 +26,7 @@ body {
   -webkit-margin-start: 2em;
   color: #069;
   display: block;
-  font-size: 1em;
+  font-size: 110%;
   font-weight: normal;
   text-indent: 2em;
   margin: 1em 0;
@@ -48,7 +48,7 @@ body {
   -webkit-margin-end: 0.5em;
   -webkit-margin-start: 0.5em;
   color: #069;
-  font-size: 0.75em;
+  font-size: 85%;
   font-weight: normal;
 }
 .note1 {
@@ -59,13 +59,13 @@ body {
   -webkit-margin-start: 2.5em;
   color: #069;
   display: block;
-  font-size: 0.75em;
+  font-size: 85%;
   font-weight: normal;
   margin: 1em 0;
 }
 .note3 {
   color: #069;
-  font-size: 0.52941em;
+  font-size: 69%;
   text-indent: 4em;
   text-decoration: overline #333;
 }
