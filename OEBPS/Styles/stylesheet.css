@@ -24,7 +24,7 @@ body {
 }
 .comment {
   -webkit-margin-start: 2em;
-  color: navy;
+  color: #069;
   display: block;
   font-size: 1em;
   font-weight: normal;
@@ -47,7 +47,7 @@ body {
 .note {
   -webkit-margin-end: 0.5em;
   -webkit-margin-start: 0.5em;
-  color: DarkGreen;
+  color: #069;
   font-size: 0.75em;
   font-weight: normal;
 }
@@ -57,14 +57,14 @@ body {
 }
 .note2 {
   -webkit-margin-start: 2.5em;
-  color: maroon;
+  color: #069;
   display: block;
   font-size: 0.75em;
   font-weight: normal;
   margin: 1em 0;
 }
 .note3 {
-  color: navy;
+  color: #069;
   font-size: 0.52941em;
   text-indent: 4em;
   text-decoration: overline #333;
