@@ -1,6 +1,5 @@
 body {
-  font-family: "Noto Serif TC Medium", sans-serif;
-  line-height: 1.2;
+  line-height: 1.3;
   word-spacing: 0;
   letter-spacing: 0;
   text-align: left;
@@ -11,25 +10,20 @@ body {
   -webkit-margin-end: 0.8em;
   -webkit-margin-before: 0.2em;
   -webkit-margin-after: 0.2em;
-  line-break: auto;
-  -webkit-line-break: auto;
+  font-family: "Noto Serif TC Medium";
 }
 .origin {
-  display: block;
+  color: #000000;
   font-size: 110%;
   font-weight: normal;
-  line-height: 1.1;
   text-indent: 2em;
-  margin: 1em 0;
 }
 .comment {
-  -webkit-margin-start: 2em;
-  color: #069;
-  display: block;
+  color: #222222;
   font-size: 110%;
   font-weight: normal;
-  text-indent: 2em;
-  margin: 1em 0;
+  -webkit-margin-after: 2em;
+  -webkit-margin-start: 1.9em;
 }
 .title1 {
   font-size: xx-large;
@@ -37,40 +31,37 @@ body {
   letter-spacing: 0.25em;
 }
 .title2 {
-  -webkit-margin-before: 2em;
-  display: block;
-  font-size: 1em;
-  font-weight: bold;
-  line-height: 1.2;
-  margin: 0.83em 0;
+  color: #000000;
+  font-size: 110%;
+  font-weight: normal;
 }
 .note {
-  -webkit-margin-end: 0.5em;
-  -webkit-margin-start: 0.5em;
   color: #069;
-  font-size: 85%;
   font-weight: normal;
+  font-size: 85%;
+  -webkit-margin-start: 0.5em;
+  -webkit-margin-end: 0.5em;
 }
 .note1 {
-  font-weight: normal;
-  text-decoration: currentColor wavy underline;
+  text-decoration: #555555 wavy underline
 }
 .note2 {
-  -webkit-margin-start: 2.5em;
   color: #069;
-  display: block;
-  font-size: 85%;
   font-weight: normal;
-  margin: 1em 0;
+  font-size: 85%;
+  -webkit-margin-start: 2.8em;
 }
 .note3 {
   color: #069;
-  font-size: 69%;
-  text-indent: 4em;
-  text-decoration: overline #333;
+  letter-spacing: 0;
+  font-weight: normal;
+  font-size: 85%;
+  margin: 0em 0.5em 0em 2em;
+  text-decoration: #555555 overline;
+  -webkit-margin-start: 2.8em;
 }
 .biaohao {
-  color: #000;
+  color: #000000;
   font-weight: normal;
   font-size: xx-small;
 }
