@@ -43,7 +43,7 @@ body {
   font-weight: normal;
 }
 .note {
-  color: #069;
+  color: #B9584E;
   font-weight: normal;
   font-size: 85%;
   -webkit-margin-start: 0.5em;
@@ -53,13 +53,13 @@ body {
   text-decoration: #555555 wavy underline
 }
 .note2 {
-  color: #069;
+  color: #B9584E;
   font-weight: normal;
   font-size: 85%;
   -webkit-margin-start: 2.8em;
 }
 .note3 {
-  color: #069;
+  color: #B9584E;
   letter-spacing: 0;
   font-weight: normal;
   font-size: 85%;
