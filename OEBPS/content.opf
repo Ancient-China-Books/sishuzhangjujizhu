@@ -24,7 +24,6 @@
     <dc:identifier opf:scheme="ISBN">9787101081695</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">10582727</dc:identifier>
     <meta content="四书章句集注" name="calibre:title_sort"/>
-    <meta content="鄒寰宇製作" name="calibre:timestamp"/>
     <meta content="0.7.3" name="Sigil version"/>
     <meta name="cover" content="cover.jpg"/>
     <meta name="calibre:author_link_map" content="{&quot;朱熹&quot;: &quot;&quot;}"/>
