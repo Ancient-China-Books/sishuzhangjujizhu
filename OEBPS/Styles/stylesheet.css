@@ -18,19 +18,12 @@ body {
   font-weight: normal;
   text-indent: 2em;
 }
-.origin1 {
-  color: #000000;
-  font-size: 110%;
-  font-weight: normal;
-  text-indent: 3em;
-}
 
 .comment {
   color: #222222;
   font-size: 110%;
   font-weight: normal;
-  -webkit-margin-after: 2em;
-  -webkit-margin-start: 1.9em;
+  text-indent: 3em;
 }
 .title1 {
   font-size: xx-large;
