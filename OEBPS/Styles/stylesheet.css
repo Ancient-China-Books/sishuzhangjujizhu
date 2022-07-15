@@ -16,14 +16,13 @@ body {
   color: #000000;
   font-size: 110%;
   font-weight: normal;
-  text-indent: 2em;
 }
 
 .comment {
   color: #069;
   font-size: 110%;
   font-weight: normal;
-  text-indent: 3em;
+  padding-left: 1em;
 }
 .title1 {
   font-size: xx-large;
@@ -48,7 +47,6 @@ body {
   color: #B9584E;
   font-weight: normal;
   font-size: 85%;
-  -webkit-margin-start: 2.8em;
 }
 .note3 {
   color: #B9584E;
@@ -65,3 +63,24 @@ body {
   font-weight: normal;
   font-size: xx-small;
 }
+
+#text {
+  text-align: justify;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-device-width: 480px) {
+  #text {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 87.36%;
+    padding-left: 1.82%;
+    padding-right: 1.82%;
+  }
+  #text p {
+    padding: 15px;
+  }
+}
+
