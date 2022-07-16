@@ -49,7 +49,7 @@
     </navPoint>
     <navPoint id="num_7" playOrder="7">
       <navLabel>
-        <text>論語集註</text>
+        <text>論語集注</text>
       </navLabel>
       <content src="Text/part05.htm"/>
       <navPoint id="num_8" playOrder="8">
@@ -247,7 +247,7 @@
     </navPoint>
     <navPoint id="num_40" playOrder="40">
       <navLabel>
-        <text>孟子集註</text>
+        <text>孟子集注</text>
       </navLabel>
       <content src="Text/part17.htm"/>
       <navPoint id="num_41" playOrder="41">
@@ -438,7 +438,7 @@
       </navPoint>
       <navPoint id="num_72" playOrder="72">
         <navLabel>
-          <text>四書章句集註定本辨</text>
+          <text>四書章句集注定本辨</text>
         </navLabel>
         <content src="Text/part33.htm"/>
       </navPoint>
