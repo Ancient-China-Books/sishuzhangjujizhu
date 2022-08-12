@@ -1,13 +1,14 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uTz2yK7O6wSuQwRWNBMpWvC" version="2.0">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>四书章句集注</dc:title>
     <dc:creator opf:role="aut" opf:file-as="朱熹">朱熹</dc:creator>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">83d6c9de-862d-4305-b3db-beff5e3c8c83</dc:identifier>
     <dc:date>2012-01-31T16:00:00+00:00</dc:date>
     <dc:publisher>中华书局</dc:publisher>
     <dc:description>&lt;div&gt;
 &lt;p&gt;《四書章句集注》，本书为朱熹最有代表性的著作之一。该书文字洗练, 对《四书》训诂文字, 疏通文理, 注重义理阐发, 从整体上探求与把握儒学精义, 堪称解读《四书》的经典之作。此次整理以清嘉庆十六年吴县吴氏父子校刻本为底本, 用清康熙内府仿刻的宋淳祐二年大字本校勘。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uTz2yK7O6wSuQwRWNBMpWvC" opf:scheme="uuid">uTz2yK7O6wSuQwRWNBMpWvC</dc:identifier>
     <dc:subject>朱熹</dc:subject>
     <dc:subject>儒家</dc:subject>
     <dc:subject>中国哲学</dc:subject>
@@ -18,9 +19,8 @@
     <dc:subject>哲学</dc:subject>
     <dc:subject>中华书局</dc:subject>
     <dc:subject>诸子</dc:subject>
-    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">8affed0b-1598-4231-98bd-5127b472941a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">91d25fb4-f1fe-4feb-9332-049611b7d40c</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101081695</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">10582727</dc:identifier>
     <meta content="四书章句集注" name="calibre:title_sort"/>
