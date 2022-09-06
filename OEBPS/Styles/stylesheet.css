@@ -28,14 +28,18 @@ body {
   color: #000000;
   font-weight: normal;
 }
-.title1 {
+
+h1 {
   font-size: x-large;
-  font-weight: bold;
-  letter-spacing: 0.25em;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
 }
-.title2 {
-  color: #000000;
-  font-size: 110%;
+h2 {
+  font-size: large;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
 }
 .note {
   color: #069;
@@ -54,13 +58,10 @@ body {
 }
 .note3 {
   color: #069;
-  letter-spacing: 0;
   font-weight: normal;
   font-size: 85%;
-  margin: 0em 0.5em 0em 2em;
   text-decoration: #555555 overline;
   text-decoration-thickness: 1%;
-  -webkit-margin-start: 2.8em;
 }
 .biaohao {
   color: #000000;
@@ -131,4 +132,11 @@ p:before{
 }
 p:hover .gg-link {
   visibility: visible;
+}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  padding: 0;
 }
