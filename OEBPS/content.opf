@@ -61,11 +61,10 @@
     <item id="id" href="Styles/page_styles.css" media-type="text/css"/>
     <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
     <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
-  <spine page-progression-direction="ltr" toc="ncx">
+  <spine page-progression-direction="rtl" toc="ncx">
     <itemref idref="cover.xhtml"/>
     <itemref idref="Part001.htm"/>
     <itemref idref="Part002.htm"/>
